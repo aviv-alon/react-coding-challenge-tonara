@@ -1,0 +1,9 @@
+
+.Piano__Octave {
+  /* Used for absolute positioning of .Piano__Key--accidental elements */
+  position: relative;
+  /* Used to lay out .Piano__Key--natural elements */
+  display: flex;
+  width: 20vw;
+  height: 40vh;
+}
